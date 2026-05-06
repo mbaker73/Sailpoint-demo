@@ -1,0 +1,16 @@
+slug: scaling-demo-operations-instruqt
+title: Scaling Demo Operations with Instruqt
+description: |
+  A hands-on track for SailPoint's Demo Center of Excellence team.
+  Experience what your SEs could deliver to prospects — from a broken
+  demo environment, to a clean CLI-powered lab, to real engagement analytics.
+icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+tags:
+  - sales-engineering
+  - demo
+  - identity-security
+level: beginner
+timelimit: 1800
+owner: your-instruqt-org-slug
+developers:
+  - your@email.com
